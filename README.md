@@ -1,5 +1,6 @@
 # examen_integrador
-Examen grupal - G9 Intro
+Examen grupal 
 
 Johan Muñoz
 Franco Cirion 
+Cristian Quinteros
